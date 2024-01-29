@@ -293,6 +293,17 @@ Apenas os pacotes e dependeências de produção seráo exportadas. Ou seja, os 
 
     git clone git@github.com:zerodevsystem/infnet.git
 #
+Crie o arquivo .gitignore e adicione nele os arquivos, diretórios ou extensões que serão ignorados pelo github. Ex.:
+* .venv
+* .lock
+* .etc...
+* __pycache__
+ 
+Uma dica útil para saber que diretórios, arquivos ou extensões ignorar acess:
+    
+    http://www.gitignore.io
+
+#
     git add .
 #
     git status
