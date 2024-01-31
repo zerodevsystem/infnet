@@ -7,6 +7,7 @@ def ordenacao(arr):
             j -= 1
         arr[j + 1] = key
 
+
 # Adicionando o conteúdo do arquivo em uma lista
 file_lista = []
 with open('zero_lista', 'r') as file:
