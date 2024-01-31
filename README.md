@@ -1,6 +1,5 @@
 # Instituto Infnet - Apoio Acadêmico
 ## 2024.T1
-### GRLTDI01C1-N2-L1"
 
 Bem-vindo ao repositório de apoio para os alunos dos cursos de Ciência da Computação, Banco de Dados, Ciência de Dados e afins do Instituto Infnet.
 
@@ -16,11 +15,15 @@ Este repositório foi criado para fornecer recursos adicionais, exemplos de cód
 
 - **Materiais de Estudo**: Slides de aula, notas de aula, listas de exercícios e outros materiais de estudo fornecidos pelos professores.
 
+- [**Subindo o nível**](docs/avancado/indice.md) : ... 
+
 ## Contribuição
 
 Os alunos são incentivados a contribuir para este repositório adicionando recursos, exemplos de código, tutoriais e outros materiais úteis que encontrarem durante seus estudos.
 
 Para contribuir, basta fazer um fork deste repositório, adicionar seus próprios recursos ou materiais e enviar um pull request. Todas as contribuições são bem-vindas!
+
+## 
 
 ## Licença
 

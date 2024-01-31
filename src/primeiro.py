@@ -1,3 +1,6 @@
-print("teste")
+def primeiro(texto):
+    t = texto
 
-print("Zerocopia")
+    if t == 'Fábio':
+        return 'João'
+    return None

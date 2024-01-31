@@ -8,7 +8,17 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
+setuptools = "^69.0.3"
 
+
+[tool.poetry.group.dev.dependencies]
+pytest = "^8.0.0"
+isort = "^5.13.2"
+prospector = "^1.10.3"
+black = "^22.1.0"
+pycodestyle = "^2.8.0"
+mkdocs = "^1.5.3"
+pip-audit = "^2.7.0"
 
 [build-system]
 requires = ["poetry-core"]
